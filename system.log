@@ -1,0 +1,20 @@
+2025-12-27 19:39:52,558 - INFO - User: [1] | Action: [Login Success] | 
+2025-12-27 19:40:10,217 - INFO - User: [SYSTEM] | Action: [Backup Created] | backups/local_data_backup_20251227_194010.db
+2025-12-27 19:45:39,916 - INFO - User: [1] | Action: [Login Success] | 
+2025-12-27 19:45:45,166 - INFO - User: [SYSTEM] | Action: [Backup Created] | backups/backup_20251227_194545.db
+2025-12-27 19:45:50,125 - INFO - User: [1] | Action: [Add Record] | UID: 1212
+2025-12-27 19:45:54,535 - INFO - User: [1] | Action: [Add Record] | UID: 222222
+2025-12-27 19:45:59,926 - INFO - User: [1] | Action: [Add Record] | UID: 2222222352
+2025-12-27 19:46:11,821 - INFO - User: [SYSTEM] | Action: [Database Restored] | Source: C:/Users/26017/Desktop/Python-system/backups/backup_20251227_194545.db
+2025-12-27 19:46:15,396 - INFO - User: [1] | Action: [Login Success] | 
+2025-12-27 19:46:21,338 - INFO - User: [SYSTEM] | Action: [Database Restored] | Source: C:/Users/26017/Desktop/Python-system/backups/local_data_backup_20251227_194010.db
+2025-12-27 19:46:24,233 - INFO - User: [1] | Action: [Login Success] | 
+2025-12-27 19:58:32,393 - INFO - User: [1] | Action: [Login Success] | 
+2025-12-27 19:58:42,848 - INFO - User: [1] | Action: [Update Record] | SysID: 18
+2025-12-27 19:58:50,710 - INFO - User: [1] | Action: [Update Record] | SysID: 18
+2025-12-27 19:58:53,044 - INFO - User: [1] | Action: [Toggle Status] | SysID: 18 -> 1
+2025-12-27 19:59:04,174 - INFO - User: [1] | Action: [Toggle Status] | SysID: 18 -> 0
+2025-12-27 19:59:40,092 - INFO - User: [1] | Action: [Login Success] | 
+2025-12-27 20:07:00,875 - INFO - User: [1] | Action: [Add Record] | UID: 44444, Prio: 中
+2025-12-27 20:31:47,598 - INFO - User: [1] | Action: [Add Record] | Folder: 2, Seq: 4
+2025-12-27 21:29:20,508 - INFO - User: [1] | Action: [Add Record] | Folder: 2, Seq: 5
