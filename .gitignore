@@ -1,0 +1,15 @@
+# PyCharm 配置文件
+.idea/
+
+# 打包生成的临时文件
+build/
+*.spec
+
+# Python 编译缓存
+__pycache__/
+
+# 你的测试数据和日志 (根据你的截图定制的)
+*.xlsx
+*.log
+*.db
+backups/
